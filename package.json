@@ -49,5 +49,9 @@
   },
   "jest": {
     "preset": "jest-react-native"
-  }
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "packageManager": "yarn@1.22.22"
 }
